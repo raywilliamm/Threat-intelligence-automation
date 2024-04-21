@@ -19,14 +19,25 @@ Clone the repository using:
 ```bash
 git clone https://github.com/raywilliamm/Threat-Intelligence-automation.git
 ```
-
-```Then, install the required Python libraries:
+Then, install the required Python libraries:
+```
 pip install -r requirements.txt
 ```
 
-Usage
+## Usage
 After cloning the repository and installing dependencies, configure your credentials in the config.py file. Run the script with the following command:
 
-bash
-Copy code
+```bash
 python TI-automation.py
+```
+## Contribution
+
+
+
+##License
+
+
+
+## Contact
+Ray William 
+Project Link: https://github.com/raywilliamm/Threat-intelligence-automation
