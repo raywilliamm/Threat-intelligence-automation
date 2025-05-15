@@ -30,9 +30,6 @@ After cloning the repository and installing dependencies, configure your credent
 ```bash
 python TI-automation.py
 ```
-## Contribution
-...
-
 
 ## License
 
